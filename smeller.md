@@ -4,6 +4,7 @@ title: Smeller
 permalink: /smeller/
 nav_order: 4
 ---
+![Smeller](https://github.com/user-attachments/assets/aeda0dc5-56ba-47d2-a17d-dd4e2f6a4837)
 
 Smellers are the things in your game that stink.  Anything that Fellers should smell need a Smeller component to give them that special aroma.  Smellers define a Stank, a radius, and a pungency curve.
 
