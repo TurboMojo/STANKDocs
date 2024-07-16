@@ -3,6 +3,7 @@ title: Smell Tracking and Notification Kit
 layout: home
 nav_order: 1
 ---
+![STANKBanner_large](https://github.com/user-attachments/assets/63b7e7c0-bc70-4f98-a3f3-3e6e43e3b913)
 
 STANK allows Unity developers to create smells, defined as Stanks in the package, and have their characters or NPCs be able to detect, track and react to those smells in a variety of ways. Whether you're making a game set in an idyllic flower meadow where your characters can stop to smell the roses or knee-deep in sewer stench, you can augment your game's immersion through using olfactory stimulus to drive response behaviors.
 
