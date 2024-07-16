@@ -6,8 +6,6 @@ nav_order: 1
 
 
 
-`![STANK: Smell Tracking and Notification Kit](Images/STANKBanner_large.png)`
-
 STANK allows Unity developers to create smells, defined as Stanks in the package, and have their characters or NPC be able to detect and react to those smells in a variety of ways. Whether you're making a game set in an idyllic flower meadow where your characters can stop to smell the roses or knee-deep in sewer stench, you can augment your game's immersion through using olfactory stimulus to drive response behaviors.
 
 STANK provides basic functionality for playing particle systems, animations, and sound effects. Further functionality can be supported through the use of the custom event system driving STANK. The STANKYLeg Animation layer supports Mecanim by default and builds a custom animation layer that will automatically trigger and play the AnimationClips you define without needing to modify your existing state machine.
