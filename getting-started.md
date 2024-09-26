@@ -13,11 +13,11 @@ The basic workflow for STANK consists of three parts:
 
 - Stanks - the smells to be smelled
 
-- STANKReactions - Defines a threshold for a Stank on a Feller and data necessary to drive behaviors in response to the level of a Stank detected.
+- STANKResponses - Defines a threshold for a Stank on a Feller and data necessary to drive behaviors in response to the level of a Stank detected.
 
-Each Feller can have any number of STANKReactions defined for each Stank.
+Each Feller can have any number of STANKResponses defined for each Stank.
 
-To get started, create a new Stank either from the STANKBank option in the Tools menu or the STANK context menu in the project window.
+To get started, create a new Stank either from the STANKBank window in the Tools menu or the STANK context menu in the project window.
 
 If you have a character set up, add the Feller prefab from the STANK/Prefabs folder as a child of your character.  
 

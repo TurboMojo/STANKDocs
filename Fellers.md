@@ -11,7 +11,7 @@ Responses is a list of STANKResponses that apply to this Feller.  Each Feller ca
 
 Acuity is a measure of how good the Feller is at smelling things.  For most purposes, this should probably always be set to 1.  It multiplies the base evaluation of a Stank's pungency.  It allows for stat modifiers to make the Feller better at smelling.
 
-Reaction Delay is the minimum allowed time in seconds between triggered reactions.  If this is set to 0, the Feller will continually loop all responses.  This should be set to a value that's at least the duration of the Response itself, but most likely longer.  No one likes an infinite puke loop.
+Reaction Delay is the minimum allowed time in seconds between triggered reactions.  If this is set to 0, the Feller will continually loop all responses.  This should be set to a value that's at least the duration of the Response itself, but most likely longer to avoid infinite loops.
 
 Fellers require a companion component to define how the TakeAWhiff method in Feller should be called.  
 
