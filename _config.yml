@@ -10,7 +10,7 @@ aux_links:
   Smell Tracking and Notification Kit: https://github.com/TurboMojo/STANK
   
 nav_enabled: true
-color_scheme: dark
+color_scheme: stank
 
 # Enable or disable the site search
 # Supports true (default) or false
