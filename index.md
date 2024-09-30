@@ -2,11 +2,13 @@
 title: Smell Tracking and Notification Kit
 layout: home
 nav_order: 1
+
 ---
+
 ![STANKBanner_large](https://github.com/user-attachments/assets/63b7e7c0-bc70-4f98-a3f3-3e6e43e3b913)
 
-STANK allows Unity developers to create smells and have their characters or NPCs be able to detect, track and react to those smells in a variety of ways. Whether you're making a game set in an idyllic flower meadow where your characters can stop to smell the roses or knee-deep in sewer stench, you can augment your game's immersion through using olfactory stimulus to drive response behaviors.
+The sense of smell is a fundamental part of the human experience.  It's part of how primitive man found resources and avoided danger.  Smells can trigger memories of specific events long forgotten.  They can trigger visceral emotional responses to all sorts of stimulus.  STANK gives Unity developers completely new tools and ideas with which they can enrich their gameplay experiences in new and exciting ways.
 
-STANK provides basic functionality for playing particle systems, animations, and sound effects. Further functionality can be supported through the use of the custom event system driving STANK through STANKReactions. The STANKYLeg Animation layer supports Mecanim by default and builds a custom animation layer that will automatically trigger and play the AnimationClips you define without needing to modify your existing state machine.
+Smell Tracking and Notification Kit (STANK) allows Unity developers to create smells, place them in the world and have their characters and NPCs be able to detect, track and respond to those smells in a variety of ways. Whether you're making a game set in an idyllic flower meadow where your characters can stop to smell the roses or knee-deep in sewer stench, you can enhance your characters with olfactory stimulus response behaviors.  Your players will really smell what you're cookin!
 
-STANK gives you the tools to add a new dimension of immersive gameplay mechanics for nearly any genre. The sense of smell is a core component of the human perception of the world. When you drive through your city and pass a restaurant, you can smell it and you get hungry. Drive by a sewer and your stomach may churn. You cry when you cut into an onion. STANK allows developers to add extra levels of depth and immersion to their games by utilizing the sense of smell.
+STANK provides basic functionality for playing particle systems, animations, and sound effects when a pungency threshold is reached. Further functionality can be supported through the use of the custom event system driving STANK through STANKReactions. The STANKYLeg Animation layer supports Mecanim by default and builds a custom animation layer that will automatically trigger and play the AnimationClips you define without needing to modify your existing state machine.
