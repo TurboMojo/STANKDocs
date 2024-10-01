@@ -1,5 +1,7 @@
+@import "./color_schemes/dark";
+
 $link-color: #a0ca7a;
 $body-text-color: #379c2d;
 $body-background-color: #353f32;
 $sidebar-color: #353f32;
-$nav-child-link-color: #353f32;
+$nav-list-item .nav-list-link.active: #353f32;
