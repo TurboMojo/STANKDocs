@@ -1,6 +1,6 @@
 ```
 layout: page
-title: STANKBank
+title: Manage assets with STANKBank
 permalink: /stankbank/
 nav_order: 9
 ```
@@ -9,4 +9,4 @@ nav_order: 9
 
 STANKBank
 
-The STANKBank is an editor window for keeping track of all your STANKs.  You can create, delete, and edit them from the STANKBank window.
+The STANKBank is an editor window for keeping track of all your STANKs and STANKResponses.  You can create, delete, and edit them from the STANKBank window.

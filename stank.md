@@ -1,5 +1,5 @@
 ```yaml
-title: Smell Tracking and Notification Kit
+title: STANKs
 layout: home
 nav_order: 10
 ```
