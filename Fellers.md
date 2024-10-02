@@ -2,7 +2,7 @@
 layout: page
 title: Fellers
 permalink: /fellers/
-nav_order: 3
+nav_order: 4
 ---
 
 Fellers are attached to your characters and NPCs.  They're responsible for handling sensory perception and triggering responses.  They do this by comparing the pungency of any smells being experienced by the Feller with the STANKResponses defined in the feller.  When a pungencyThreshold in the STANKResponse is reached, the response is triggered.

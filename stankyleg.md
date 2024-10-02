@@ -2,7 +2,7 @@
 layout: page
 title: STANKYLeg
 permalink: /stankyleg/
-nav_order: 5
+nav_order: 7
 ---
 
 **STANKYLeg**

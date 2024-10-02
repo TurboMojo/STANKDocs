@@ -2,7 +2,7 @@
 layout: page
 title: STANKEye
 permalink: /stankeye/
-nav_order: 5
+nav_order: 6
 ---
 
 STANKEye is a system that utilizes multiple components for various behaviors.  It's responsible for displaying visual parts of STANKResponses, such as particle systems and icons.  The base STANKEye script should be attached to your Feller gameobject and any of the system's other scripts must be attached as a child of the Feller.
